@@ -1,0 +1,5 @@
+{
+  "devDependencies": {
+    "@trybe/eslint-config-frontend": "^1.11.3"
+  }
+}
